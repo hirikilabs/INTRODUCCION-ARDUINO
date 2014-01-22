@@ -6,7 +6,7 @@ Estos pequeños programas son ejemplos para unas fichas de iniciación a Arduino
 Los programas están numerados de la siguiente forma:
 
 FichaXX = El documento explicativo de cada ficha.
-EjemploXX_00 = ejemplo 00 para la ficha XX.
+FichaXX_CodeXX = ejemplo de código para la ficha XX.
 
 Más información en: 
 
