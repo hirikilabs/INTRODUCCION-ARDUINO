@@ -28,5 +28,3 @@ Más información en:
 
 https://sites.google.com/site/redikaskide/material-interesante/ideas-robotika-arduino
 
-Imágenes:
-https://drive.google.com/folderview?id=0B-Ms4QncoRbeODJrTUZjeXc4T3c&usp=sharing
